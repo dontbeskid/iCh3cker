@@ -130,7 +130,7 @@ get_device_info() {
     echo ""
     echo "-- system"
     echo "iOS/iPadOS Version : ${os_ver:-N/A} (${build_ver:-N/A})"
-    echo "Jailbreak Support  : ${jb_status}"
+    echo "Jailbreak Support  : in dev"
     echo "Activation State   : ${activated:-N/A}"
     echo "Find My iPhone     : ${fmi:-N/A}"
     echo "Passcode Enabled   : ${pass_status:-N/A}"
