@@ -4,3 +4,18 @@
  | | (__| ' \ |_ \/ _| / / -_) '_|
  |_|\___|_||_|___/\__|_\_\___|_|  
 ```                                  
+
+Full iDevice info reader (Battery cycles, Jailbreak status, Region, Production Date, etc.)
+
+## Launch 
+
+### curl :
+```
+curl -fsSL https://raw.githubusercontent.com/dontbeskid/iCh3cker/refs/heads/main/iCh3cker.sh | sh
+```
+### wget :
+```
+wget -qO- https://raw.githubusercontent.com/dontbeskid/iCh3cker/refs/heads/main/iCh3cker.sh | sh
+```
+
+created with L0V3 <3333333
