@@ -2,10 +2,10 @@
 
 # Program: iCh3cker
 # Description: Full iDevice info reader (Battery cycles, Jailbreak status, Region, Production Date, etc.)
-echo "  _  ___ _    ____    _
- (_)/ __| |_ |__ / __| |_____ _ _
- | | (__| ' \ |_ \/ _| / / -_) '_|
- |_|\___|_||_|___/\__|_\_\___|_|
+echo "  _   ___ _     ____    _        
+ (_)/ __| |_ |__ / __| |_____ _ _ 
+ | | (__| ' \|_ \/ _| / / -_) '_| 
+ |_|\___|_||_|___/\__|_\_\___|_|  
 "
 
 check_dependencies() {
@@ -117,6 +117,17 @@ get_device_info() {
     local design_cap=$(echo "$batt_raw" | grep -A 1 "DesignCapacity" | grep -oE '[0-9]+' | head -n 1)
     local batt_level=$(ideviceinfo -q com.apple.mobile.battery -k BatteryCurrentCapacity 2>/dev/null)
 
+    # Расчет остаточной емкости (состояния аккумулятора) в %
+    local batt_health="N/A"
+    if [ -n "$max_cap" ] && [ -n "$design_cap" ] && [ "$design_cap" -gt 0 ]; then
+        local health_calc=$(( (max_cap * 100) / design_cap ))
+        # Ограничиваем верхний порог 100%, если текущая емкость чуть выше заводской
+        if [ "$health_calc" -gt 100 ]; then
+            health_calc=100
+        fi
+        batt_health="${health_calc}%"
+    fi
+
     local prod_date=$(get_production_date "$serial")
     local jb_status=$(check_jailbreak_support "$os_ver")
 
@@ -130,13 +141,14 @@ get_device_info() {
     echo ""
     echo "-- system"
     echo "iOS/iPadOS Version : ${os_ver:-N/A} (${build_ver:-N/A})"
-    echo "Jailbreak Support  : in dev"
+    echo "Jailbreak Support  : ( he can lie ) - ${jb_status}"
     echo "Activation State   : ${activated:-N/A}"
     echo "Find My iPhone     : ${fmi:-N/A}"
     echo "Passcode Enabled   : ${pass_status:-N/A}"
     echo ""
     echo "-- hardware"
     echo "Battery Level      : ${batt_level:-N/A}%"
+    echo "Battery Health     : ${batt_health}"
     echo "Battery Cycles     : ${cycle_count:-N/A}"
     echo "Current Capacity   : ${max_cap:-N/A} mAh"
     echo "Design Capacity    : ${design_cap:-N/A} mAh"
