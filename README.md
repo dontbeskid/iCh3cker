@@ -6,8 +6,17 @@
 ```                                  
 
 Full iDevice info reader (Battery cycles, Jailbreak status, Region, Production Date, etc.)
+## Install
 
-## Launch 
+### curl :
+```
+curl -fsSL https://raw.githubusercontent.com/dontbeskid/iCh3cker/refs/heads/main/iInstaller.sh | sh
+```
+### wget :
+```
+wget -qO- https://raw.githubusercontent.com/dontbeskid/iCh3cker/refs/heads/main/iInstaller.sh | sh
+```
+## Launch without Install
 
 ### curl :
 ```
@@ -15,6 +24,7 @@ curl -fsSL https://raw.githubusercontent.com/dontbeskid/iCh3cker/refs/heads/main
 ```
 ### wget :
 ```
+
 wget -qO- https://raw.githubusercontent.com/dontbeskid/iCh3cker/refs/heads/main/iCh3cker.sh | sh
 ```
 
