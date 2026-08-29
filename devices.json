@@ -1,63 +1,138 @@
 {
-  "generated_at": "2026-08-29T08:58:44Z",
+  "generated_at": "2026-08-29T09:09:27Z",
   "source": "https://ios.cfw.guide",
   "devices": {
-    "iPhone": {
+    "iPhone16,1": {
       "soc": null,
       "arch": null,
       "latest_jailbreakable": null,
       "versions": [
         {
-          "from": "7.1",
-          "to": "7.1.2",
-          "jailbreak": "Using Lyncis",
-          "url": "https://ios.cfw.guide/using-lyncis/"
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
         },
         {
-          "from": "4.3.4",
-          "to": "7.0.6",
-          "jailbreak": "Installing Aquila",
-          "url": "https://ios.cfw.guide/installing-aquila/"
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
         },
         {
-          "from": "4.3",
-          "to": "4.3.3",
-          "jailbreak": "Using JailbreakMe Saffron",
-          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
-        },
-        {
-          "from": "4.2.9",
-          "to": "4.2.10",
-          "jailbreak": "redsn0w",
-          "url": "https://appledb.dev/jailbreak/redsn0w"
-        },
-        {
-          "from": "4.2.6",
-          "to": "4.2.8",
-          "jailbreak": "Using JailbreakMe Saffron",
-          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
-        },
-        {
-          "from": "4.2.5",
-          "to": "4.2.5",
-          "jailbreak": "Legacy iOS Kit",
-          "url": "https://appledb.dev/jailbreak/Legacy-iOS-Kit"
-        },
-        {
-          "from": "4.1",
-          "to": "4.2.1",
-          "jailbreak": "Installing greenpois0n",
-          "url": "https://ios.cfw.guide/installing-greenpois0n/"
-        },
-        {
-          "from": "4.0",
-          "to": "4.0.2",
-          "jailbreak": "Installing limera1n",
-          "url": "https://ios.cfw.guide/installing-limera1n/"
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
         }
       ],
-      "name": "iPhone 4",
-      "page": "https://ios.cfw.guide/get-started/iPhone-4.html"
+      "name": "iPhone 15 Pro",
+      "page": "https://ios.cfw.guide/get-started/iPhone-15-Pro.html"
+    },
+    "iPhone15,4": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPhone 15",
+      "page": "https://ios.cfw.guide/get-started/iPhone-15.html"
+    },
+    "iPhone14,7": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "16.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPhone 14",
+      "page": "https://ios.cfw.guide/get-started/iPhone-14.html"
+    },
+    "iPhone15,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "16.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPhone 14 Pro",
+      "page": "https://ios.cfw.guide/get-started/iPhone-14-Pro.html"
     },
     "iPhone14,6": {
       "soc": null,
@@ -97,6 +172,174 @@
       ],
       "name": "iPhone SE (3rd generation)",
       "page": "https://ios.cfw.guide/get-started/iPhone-SE-(3rd-generation).html"
+    },
+    "iPhone14,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPhone 13 Pro",
+      "page": "https://ios.cfw.guide/get-started/iPhone-13-Pro.html"
+    },
+    "iPhone14,5": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPhone 13",
+      "page": "https://ios.cfw.guide/get-started/iPhone-13.html"
+    },
+    "iPhone13,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.1",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        }
+      ],
+      "name": "iPhone 12",
+      "page": "https://ios.cfw.guide/get-started/iPhone-12.html"
+    },
+    "iPhone13,3": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.1",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        }
+      ],
+      "name": "iPhone 12 Pro",
+      "page": "https://ios.cfw.guide/get-started/iPhone-12-Pro.html"
     },
     "iPhone12,8": {
       "soc": null,
@@ -160,6 +403,69 @@
       ],
       "name": "iPhone SE (2nd generation)",
       "page": "https://ios.cfw.guide/get-started/iPhone-SE-(2nd-generation).html"
+    },
+    "iPhone12,3": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "13.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPhone 11 Pro",
+      "page": "https://ios.cfw.guide/get-started/iPhone-11-Pro.html"
     },
     "iPhone12,1": {
       "soc": null,
@@ -275,6 +581,291 @@
       "name": "iPhone XR",
       "page": "https://ios.cfw.guide/get-started/iPhone-XR.html"
     },
+    "iPhone11,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "18.7.2",
+          "to": "18.7.10",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPhone XS",
+      "page": "https://ios.cfw.guide/get-started/iPhone-XS.html"
+    },
+    "iPhone10,3": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "16.7",
+          "to": "16.7.16",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        }
+      ],
+      "name": "iPhone X",
+      "page": "https://ios.cfw.guide/get-started/iPhone-X.html"
+    },
+    "iPhone10,6": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "16.7",
+          "to": "16.7.16",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        }
+      ],
+      "name": "iPhone X",
+      "page": "https://ios.cfw.guide/get-started/iPhone-X.html"
+    },
+    "iPhone10,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "16.7",
+          "to": "16.7.16",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        }
+      ],
+      "name": "iPhone 8",
+      "page": "https://ios.cfw.guide/get-started/iPhone-8.html"
+    },
+    "iPhone10,4": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "16.7",
+          "to": "16.7.16",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        }
+      ],
+      "name": "iPhone 8",
+      "page": "https://ios.cfw.guide/get-started/iPhone-8.html"
+    },
+    "iPhone9,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "15.0",
+          "to": "15.8.8",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        }
+      ],
+      "name": "iPhone 7",
+      "page": "https://ios.cfw.guide/get-started/iPhone-7.html"
+    },
+    "iPhone9,3": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "15.0",
+          "to": "15.8.8",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        }
+      ],
+      "name": "iPhone 7",
+      "page": "https://ios.cfw.guide/get-started/iPhone-7.html"
+    },
     "iPhone8,4": {
       "soc": null,
       "arch": null,
@@ -320,6 +911,348 @@
       "name": "iPhone SE (1st generation)",
       "page": "https://ios.cfw.guide/get-started/iPhone-SE-(1st-generation).html"
     },
+    "iPhone8,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "15.0",
+          "to": "15.8.8",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        }
+      ],
+      "name": "iPhone 6s",
+      "page": "https://ios.cfw.guide/get-started/iPhone-6s.html"
+    },
+    "iPhone7,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "12.0",
+          "to": "12.5.8",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        },
+        {
+          "from": "8.0",
+          "to": "8.4.1",
+          "jailbreak": "Installing wtfis",
+          "url": "https://ios.cfw.guide/installing-wtfis/"
+        }
+      ],
+      "name": "iPhone 6",
+      "page": "https://ios.cfw.guide/get-started/iPhone-6.html"
+    },
+    "iPhone5,3": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "10.0",
+          "to": "10.3.4",
+          "jailbreak": "Installing Socket",
+          "url": "https://ios.cfw.guide/installing-socket/"
+        },
+        {
+          "from": "8.0",
+          "to": "9.3.5",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "7.0",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPhone 5c",
+      "page": "https://ios.cfw.guide/get-started/iPhone-5c.html"
+    },
+    "iPhone5,4": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "10.0",
+          "to": "10.3.4",
+          "jailbreak": "Installing Socket",
+          "url": "https://ios.cfw.guide/installing-socket/"
+        },
+        {
+          "from": "8.0",
+          "to": "9.3.5",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "7.0",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPhone 5c",
+      "page": "https://ios.cfw.guide/get-started/iPhone-5c.html"
+    },
+    "iPhone6,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "12.0",
+          "to": "12.5.8",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        },
+        {
+          "from": "8.0",
+          "to": "8.4.1",
+          "jailbreak": "Installing wtfis",
+          "url": "https://ios.cfw.guide/installing-wtfis/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Installing Pangu7",
+          "url": "https://ios.cfw.guide/installing-pangu7/"
+        },
+        {
+          "from": "7.0",
+          "to": "7.0.6",
+          "jailbreak": "Installing Evasi0n7",
+          "url": "https://ios.cfw.guide/installing-evasi0n7/"
+        }
+      ],
+      "name": "iPhone 5s",
+      "page": "https://ios.cfw.guide/get-started/iPhone-5s.html"
+    },
+    "iPhone6,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "12.0",
+          "to": "12.5.8",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        },
+        {
+          "from": "8.0",
+          "to": "8.4.1",
+          "jailbreak": "Installing wtfis",
+          "url": "https://ios.cfw.guide/installing-wtfis/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Installing Pangu7",
+          "url": "https://ios.cfw.guide/installing-pangu7/"
+        },
+        {
+          "from": "7.0",
+          "to": "7.0.6",
+          "jailbreak": "Installing Evasi0n7",
+          "url": "https://ios.cfw.guide/installing-evasi0n7/"
+        }
+      ],
+      "name": "iPhone 5s",
+      "page": "https://ios.cfw.guide/get-started/iPhone-5s.html"
+    },
+    "iPhone5,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "10.0",
+          "to": "10.3.4",
+          "jailbreak": "Installing Socket",
+          "url": "https://ios.cfw.guide/installing-socket/"
+        },
+        {
+          "from": "8.0",
+          "to": "9.3.5",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "6.0",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPhone 5",
+      "page": "https://ios.cfw.guide/get-started/iPhone-5.html"
+    },
+    "iPhone5,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "10.0",
+          "to": "10.3.4",
+          "jailbreak": "Installing Socket",
+          "url": "https://ios.cfw.guide/installing-socket/"
+        },
+        {
+          "from": "8.0",
+          "to": "9.3.5",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "6.0",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPhone 5",
+      "page": "https://ios.cfw.guide/get-started/iPhone-5.html"
+    },
     "iPhone4,1": {
       "soc": null,
       "arch": null,
@@ -346,6 +1279,177 @@
       ],
       "name": "iPhone 4S",
       "page": "https://ios.cfw.guide/get-started/iPhone-4S.html"
+    },
+    "iPhone3,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "4.3.4",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        },
+        {
+          "from": "4.3",
+          "to": "4.3.3",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "4.2.9",
+          "to": "4.2.10",
+          "jailbreak": "redsn0w",
+          "url": "https://appledb.dev/jailbreak/redsn0w"
+        },
+        {
+          "from": "4.2.6",
+          "to": "4.2.8",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "4.2.5",
+          "to": "4.2.5",
+          "jailbreak": "Legacy iOS Kit",
+          "url": "https://appledb.dev/jailbreak/Legacy-iOS-Kit"
+        },
+        {
+          "from": "4.1",
+          "to": "4.2.1",
+          "jailbreak": "Installing greenpois0n",
+          "url": "https://ios.cfw.guide/installing-greenpois0n/"
+        },
+        {
+          "from": "4.0",
+          "to": "4.0.2",
+          "jailbreak": "Installing limera1n",
+          "url": "https://ios.cfw.guide/installing-limera1n/"
+        }
+      ],
+      "name": "iPhone 4",
+      "page": "https://ios.cfw.guide/get-started/iPhone-4.html"
+    },
+    "iPhone3,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "4.3.4",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        },
+        {
+          "from": "4.3",
+          "to": "4.3.3",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "4.2.9",
+          "to": "4.2.10",
+          "jailbreak": "redsn0w",
+          "url": "https://appledb.dev/jailbreak/redsn0w"
+        },
+        {
+          "from": "4.2.6",
+          "to": "4.2.8",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "4.2.5",
+          "to": "4.2.5",
+          "jailbreak": "Legacy iOS Kit",
+          "url": "https://appledb.dev/jailbreak/Legacy-iOS-Kit"
+        },
+        {
+          "from": "4.1",
+          "to": "4.2.1",
+          "jailbreak": "Installing greenpois0n",
+          "url": "https://ios.cfw.guide/installing-greenpois0n/"
+        },
+        {
+          "from": "4.0",
+          "to": "4.0.2",
+          "jailbreak": "Installing limera1n",
+          "url": "https://ios.cfw.guide/installing-limera1n/"
+        }
+      ],
+      "name": "iPhone 4",
+      "page": "https://ios.cfw.guide/get-started/iPhone-4.html"
+    },
+    "iPhone3,3": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "4.3.4",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        },
+        {
+          "from": "4.3",
+          "to": "4.3.3",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "4.2.9",
+          "to": "4.2.10",
+          "jailbreak": "redsn0w",
+          "url": "https://appledb.dev/jailbreak/redsn0w"
+        },
+        {
+          "from": "4.2.6",
+          "to": "4.2.8",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "4.2.5",
+          "to": "4.2.5",
+          "jailbreak": "Legacy iOS Kit",
+          "url": "https://appledb.dev/jailbreak/Legacy-iOS-Kit"
+        },
+        {
+          "from": "4.1",
+          "to": "4.2.1",
+          "jailbreak": "Installing greenpois0n",
+          "url": "https://ios.cfw.guide/installing-greenpois0n/"
+        },
+        {
+          "from": "4.0",
+          "to": "4.0.2",
+          "jailbreak": "Installing limera1n",
+          "url": "https://ios.cfw.guide/installing-limera1n/"
+        }
+      ],
+      "name": "iPhone 4",
+      "page": "https://ios.cfw.guide/get-started/iPhone-4.html"
     },
     "iPhone2,1": {
       "soc": null,
@@ -464,7 +1568,694 @@
       "name": "iPhone 2G",
       "page": "https://ios.cfw.guide/get-started/iPhone-2G.html"
     },
-    "iPad": {
+    "iPad13,18": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "16.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPad (10th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(10th-generation).html"
+    },
+    "iPad13,19": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "16.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPad (10th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(10th-generation).html"
+    },
+    "iPad12,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPad (9th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(9th-generation).html"
+    },
+    "iPad12,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPad (9th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(9th-generation).html"
+    },
+    "iPad11,6": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.9",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        }
+      ],
+      "name": "iPad (8th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(8th-generation).html"
+    },
+    "iPad11,7": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.9",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        }
+      ],
+      "name": "iPad (8th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(8th-generation).html"
+    },
+    "iPad7,11": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "18.7.2",
+          "to": "18.7.10",
+          "jailbreak": "Installing palera1n",
+          "url": "https://ios.cfw.guide/installing-palera1n/"
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "13.1",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad (7th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(7th-generation).html"
+    },
+    "iPad7,12": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "18.7.2",
+          "to": "18.7.10",
+          "jailbreak": "Installing palera1n",
+          "url": "https://ios.cfw.guide/installing-palera1n/"
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "13.1",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad (7th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(7th-generation).html"
+    },
+    "iPad7,5": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.0.1",
+          "to": "17.7.11",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.3",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        }
+      ],
+      "name": "iPad (6th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(6th-generation).html"
+    },
+    "iPad7,6": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.0.1",
+          "to": "17.7.11",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.3",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        }
+      ],
+      "name": "iPad (6th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(6th-generation).html"
+    },
+    "iPad6,11": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "16.7",
+          "to": "16.7.16",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.3",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        }
+      ],
+      "name": "iPad (5th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(5th-generation).html"
+    },
+    "iPad6,12": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "16.7",
+          "to": "16.7.16",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.3",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        }
+      ],
+      "name": "iPad (5th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(5th-generation).html"
+    },
+    "iPad3,4": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "10.0",
+          "to": "10.3.4",
+          "jailbreak": "Installing Socket",
+          "url": "https://ios.cfw.guide/installing-socket/"
+        },
+        {
+          "from": "8.0",
+          "to": "9.3.5",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "6.0",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPad (4th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(4th-generation).html"
+    },
+    "iPad3,5": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "10.0",
+          "to": "10.3.4",
+          "jailbreak": "Installing Socket",
+          "url": "https://ios.cfw.guide/installing-socket/"
+        },
+        {
+          "from": "8.0",
+          "to": "9.3.5",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "6.0",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPad (4th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(4th-generation).html"
+    },
+    "iPad3,6": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "10.0",
+          "to": "10.3.4",
+          "jailbreak": "Installing Socket",
+          "url": "https://ios.cfw.guide/installing-socket/"
+        },
+        {
+          "from": "8.0",
+          "to": "9.3.5",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "6.0",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPad (4th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(4th-generation).html"
+    },
+    "iPad3,1": {
       "soc": null,
       "arch": null,
       "latest_jailbreakable": null,
@@ -482,14 +2273,224 @@
           "url": "https://ios.cfw.guide/using-lyncis/"
         },
         {
-          "from": "6.0",
+          "from": "5.1",
           "to": "7.0.6",
           "jailbreak": "Installing Aquila",
           "url": "https://ios.cfw.guide/installing-aquila/"
         }
       ],
-      "name": "iPad mini",
-      "page": "https://ios.cfw.guide/get-started/iPad-mini.html"
+      "name": "iPad (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(3rd-generation).html"
+    },
+    "iPad3,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "8.0",
+          "to": "9.3.6",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "5.1",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPad (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(3rd-generation).html"
+    },
+    "iPad3,3": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "8.0",
+          "to": "9.3.6",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "5.1",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPad (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-(3rd-generation).html"
+    },
+    "iPad2,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "8.0",
+          "to": "9.3.6",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "4.3.4",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        },
+        {
+          "from": "4.3.3",
+          "to": "4.3.3",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "4.3",
+          "to": "4.3.2",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPad 2",
+      "page": "https://ios.cfw.guide/get-started/iPad-2.html"
+    },
+    "iPad2,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "8.0",
+          "to": "9.3.6",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "4.3.4",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        },
+        {
+          "from": "4.3.3",
+          "to": "4.3.3",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "4.3",
+          "to": "4.3.2",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPad 2",
+      "page": "https://ios.cfw.guide/get-started/iPad-2.html"
+    },
+    "iPad2,3": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "8.0",
+          "to": "9.3.6",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "4.3.4",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        },
+        {
+          "from": "4.3.3",
+          "to": "4.3.3",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "4.3",
+          "to": "4.3.2",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPad 2",
+      "page": "https://ios.cfw.guide/get-started/iPad-2.html"
+    },
+    "iPad2,4": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "8.0",
+          "to": "9.3.6",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "4.3.4",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        },
+        {
+          "from": "4.3.3",
+          "to": "4.3.3",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "4.3",
+          "to": "4.3.2",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPad 2",
+      "page": "https://ios.cfw.guide/get-started/iPad-2.html"
     },
     "iPad1,1": {
       "soc": null,
@@ -523,6 +2524,3027 @@
       ],
       "name": "iPad",
       "page": "https://ios.cfw.guide/get-started/iPad.html"
+    },
+    "iPad1,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "4.3.3",
+          "to": "5.1.1",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        },
+        {
+          "from": "4.3",
+          "to": "4.3.2",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "3.2.2",
+          "to": "4.2.1",
+          "jailbreak": "Installing greenpois0n",
+          "url": "https://ios.cfw.guide/installing-greenpois0n/"
+        },
+        {
+          "from": "3.2",
+          "to": "3.2.1",
+          "jailbreak": "Using JailbreakMe Star",
+          "url": "https://ios.cfw.guide/using-jailbreakme-star/"
+        }
+      ],
+      "name": "iPad",
+      "page": "https://ios.cfw.guide/get-started/iPad.html"
+    },
+    "iPad13,16": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.4",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPad Air (5th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Air-(5th-generation).html"
+    },
+    "iPad13,17": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.4",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPad Air (5th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Air-(5th-generation).html"
+    },
+    "iPad13,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        }
+      ],
+      "name": "iPad Air (4th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Air-(4th-generation).html"
+    },
+    "iPad13,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        }
+      ],
+      "name": "iPad Air (4th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Air-(4th-generation).html"
+    },
+    "iPad11,3": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.2",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad Air (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Air-(3rd-generation).html"
+    },
+    "iPad11,4": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.2",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad Air (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Air-(3rd-generation).html"
+    },
+    "iPad5,3": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "15.0",
+          "to": "15.8.8",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        },
+        {
+          "from": "8.1",
+          "to": "8.4.1",
+          "jailbreak": "Installing wtfis",
+          "url": "https://ios.cfw.guide/installing-wtfis/"
+        }
+      ],
+      "name": "iPad Air 2",
+      "page": "https://ios.cfw.guide/get-started/iPad-Air-2.html"
+    },
+    "iPad5,4": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "15.0",
+          "to": "15.8.8",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        },
+        {
+          "from": "8.1",
+          "to": "8.4.1",
+          "jailbreak": "Installing wtfis",
+          "url": "https://ios.cfw.guide/installing-wtfis/"
+        }
+      ],
+      "name": "iPad Air 2",
+      "page": "https://ios.cfw.guide/get-started/iPad-Air-2.html"
+    },
+    "iPad4,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "12.0",
+          "to": "12.5.8",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        },
+        {
+          "from": "8.0",
+          "to": "8.4.1",
+          "jailbreak": "Installing wtfis",
+          "url": "https://ios.cfw.guide/installing-wtfis/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Installing Pangu7",
+          "url": "https://ios.cfw.guide/installing-pangu7/"
+        },
+        {
+          "from": "7.0.3",
+          "to": "7.0.6",
+          "jailbreak": "Installing Evasi0n7",
+          "url": "https://ios.cfw.guide/installing-evasi0n7/"
+        }
+      ],
+      "name": "iPad Air",
+      "page": "https://ios.cfw.guide/get-started/iPad-Air.html"
+    },
+    "iPad4,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "12.0",
+          "to": "12.5.8",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        },
+        {
+          "from": "8.0",
+          "to": "8.4.1",
+          "jailbreak": "Installing wtfis",
+          "url": "https://ios.cfw.guide/installing-wtfis/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Installing Pangu7",
+          "url": "https://ios.cfw.guide/installing-pangu7/"
+        },
+        {
+          "from": "7.0.3",
+          "to": "7.0.6",
+          "jailbreak": "Installing Evasi0n7",
+          "url": "https://ios.cfw.guide/installing-evasi0n7/"
+        }
+      ],
+      "name": "iPad Air",
+      "page": "https://ios.cfw.guide/get-started/iPad-Air.html"
+    },
+    "iPad4,3": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "12.0",
+          "to": "12.5.8",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        },
+        {
+          "from": "8.0",
+          "to": "8.4.1",
+          "jailbreak": "Installing wtfis",
+          "url": "https://ios.cfw.guide/installing-wtfis/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Installing Pangu7",
+          "url": "https://ios.cfw.guide/installing-pangu7/"
+        },
+        {
+          "from": "7.0.3",
+          "to": "7.0.6",
+          "jailbreak": "Installing Evasi0n7",
+          "url": "https://ios.cfw.guide/installing-evasi0n7/"
+        }
+      ],
+      "name": "iPad Air",
+      "page": "https://ios.cfw.guide/get-started/iPad-Air.html"
+    },
+    "iPad14,3": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "16.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPad Pro 11-inch (4th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-11-inch-(4th-generation).html"
+    },
+    "iPad14,4": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "16.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPad Pro 11-inch (4th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-11-inch-(4th-generation).html"
+    },
+    "iPad14,5": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "16.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPad Pro 12.9-inch (6th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-12.9-inch-(6th-generation).html"
+    },
+    "iPad14,6": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "16.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPad Pro 12.9-inch (6th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-12.9-inch-(6th-generation).html"
+    },
+    "iPad13,4": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.5",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        }
+      ],
+      "name": "iPad Pro 11-inch (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-11-inch-(3rd-generation).html"
+    },
+    "iPad13,5": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.5",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        }
+      ],
+      "name": "iPad Pro 11-inch (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-11-inch-(3rd-generation).html"
+    },
+    "iPad13,6": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.5",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        }
+      ],
+      "name": "iPad Pro 11-inch (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-11-inch-(3rd-generation).html"
+    },
+    "iPad13,7": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.5",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        }
+      ],
+      "name": "iPad Pro 11-inch (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-11-inch-(3rd-generation).html"
+    },
+    "iPad13,8": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.5",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        }
+      ],
+      "name": "iPad Pro 12.9-inch (5th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-12.9-inch-(5th-generation).html"
+    },
+    "iPad13,9": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.5",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        }
+      ],
+      "name": "iPad Pro 12.9-inch (5th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-12.9-inch-(5th-generation).html"
+    },
+    "iPad13,10": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.5",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        }
+      ],
+      "name": "iPad Pro 12.9-inch (5th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-12.9-inch-(5th-generation).html"
+    },
+    "iPad13,11": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.5",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        }
+      ],
+      "name": "iPad Pro 12.9-inch (5th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-12.9-inch-(5th-generation).html"
+    },
+    "iPad8,9": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "13.4",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad Pro 11-inch (2nd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-11-inch-(2nd-generation).html"
+    },
+    "iPad8,10": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "13.4",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad Pro 11-inch (2nd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-11-inch-(2nd-generation).html"
+    },
+    "iPad8,11": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "13.4",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad Pro 12.9-inch (4th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-12.9-inch-(4th-generation).html"
+    },
+    "iPad8,12": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "13.4",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad Pro 12.9-inch (4th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-12.9-inch-(4th-generation).html"
+    },
+    "iPad8,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.1",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad Pro 11-inch (1st generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-11-inch-(1st-generation).html"
+    },
+    "iPad8,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.1",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad Pro 11-inch (1st generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-11-inch-(1st-generation).html"
+    },
+    "iPad8,3": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.1",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad Pro 11-inch (1st generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-11-inch-(1st-generation).html"
+    },
+    "iPad8,4": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.1",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad Pro 11-inch (1st generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-11-inch-(1st-generation).html"
+    },
+    "iPad8,5": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.1",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad Pro 12.9-inch (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-12.9-inch-(3rd-generation).html"
+    },
+    "iPad8,6": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.1",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad Pro 12.9-inch (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-12.9-inch-(3rd-generation).html"
+    },
+    "iPad8,7": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.1",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad Pro 12.9-inch (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-12.9-inch-(3rd-generation).html"
+    },
+    "iPad8,8": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.1",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad Pro 12.9-inch (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-12.9-inch-(3rd-generation).html"
+    },
+    "iPad7,3": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.0.1",
+          "to": "17.7.11",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.3",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        }
+      ],
+      "name": "iPad Pro (10.5-inch)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-(10.5-inch).html"
+    },
+    "iPad7,4": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.0.1",
+          "to": "17.7.11",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.3",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        }
+      ],
+      "name": "iPad Pro (10.5-inch)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-(10.5-inch).html"
+    },
+    "iPad7,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.0.1",
+          "to": "17.7.11",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.3",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        }
+      ],
+      "name": "iPad Pro (12.9-inch) (2nd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-(12.9-inch)-(2nd-generation).html"
+    },
+    "iPad7,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.0.1",
+          "to": "17.7.11",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.3",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        }
+      ],
+      "name": "iPad Pro (12.9-inch) (2nd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-(12.9-inch)-(2nd-generation).html"
+    },
+    "iPad6,3": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "16.7",
+          "to": "16.7.16",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.3",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        }
+      ],
+      "name": "iPad Pro (9.7-inch)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-(9.7-inch).html"
+    },
+    "iPad6,4": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "16.7",
+          "to": "16.7.16",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.3",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        }
+      ],
+      "name": "iPad Pro (9.7-inch)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-(9.7-inch).html"
+    },
+    "iPad6,7": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "16.7",
+          "to": "16.7.16",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.1",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        }
+      ],
+      "name": "iPad Pro (12.9-inch) (1st generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-(12.9-inch)-(1st-generation).html"
+    },
+    "iPad6,8": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "16.7",
+          "to": "16.7.16",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.1",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        }
+      ],
+      "name": "iPad Pro (12.9-inch) (1st generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-Pro-(12.9-inch)-(1st-generation).html"
+    },
+    "iPad14,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPad mini (6th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-mini-(6th-generation).html"
+    },
+    "iPad14,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPad mini (6th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-mini-(6th-generation).html"
+    },
+    "iPad11,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.2",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad mini (5th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-mini-(5th-generation).html"
+    },
+    "iPad11,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.2",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPad mini (5th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPad-mini-(5th-generation).html"
+    },
+    "iPad5,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "15.0",
+          "to": "15.8.8",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        }
+      ],
+      "name": "iPad mini 4",
+      "page": "https://ios.cfw.guide/get-started/iPad-mini-4.html"
+    },
+    "iPad5,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "15.0",
+          "to": "15.8.8",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        }
+      ],
+      "name": "iPad mini 4",
+      "page": "https://ios.cfw.guide/get-started/iPad-mini-4.html"
+    },
+    "iPad4,7": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "12.0",
+          "to": "12.5.8",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        },
+        {
+          "from": "8.0.2",
+          "to": "8.4.1",
+          "jailbreak": "Installing wtfis",
+          "url": "https://ios.cfw.guide/installing-wtfis/"
+        }
+      ],
+      "name": "iPad mini 3",
+      "page": "https://ios.cfw.guide/get-started/iPad-mini-3.html"
+    },
+    "iPad4,8": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "12.0",
+          "to": "12.5.8",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        },
+        {
+          "from": "8.0.2",
+          "to": "8.4.1",
+          "jailbreak": "Installing wtfis",
+          "url": "https://ios.cfw.guide/installing-wtfis/"
+        }
+      ],
+      "name": "iPad mini 3",
+      "page": "https://ios.cfw.guide/get-started/iPad-mini-3.html"
+    },
+    "iPad4,9": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "12.0",
+          "to": "12.5.8",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        },
+        {
+          "from": "8.0.2",
+          "to": "8.4.1",
+          "jailbreak": "Installing wtfis",
+          "url": "https://ios.cfw.guide/installing-wtfis/"
+        }
+      ],
+      "name": "iPad mini 3",
+      "page": "https://ios.cfw.guide/get-started/iPad-mini-3.html"
+    },
+    "iPad4,4": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "12.0",
+          "to": "12.5.8",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        },
+        {
+          "from": "8.0",
+          "to": "8.4.1",
+          "jailbreak": "Installing wtfis",
+          "url": "https://ios.cfw.guide/installing-wtfis/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Installing Pangu7",
+          "url": "https://ios.cfw.guide/installing-pangu7/"
+        },
+        {
+          "from": "7.0.3",
+          "to": "7.0.6",
+          "jailbreak": "Installing Evasi0n7",
+          "url": "https://ios.cfw.guide/installing-evasi0n7/"
+        }
+      ],
+      "name": "iPad mini 2",
+      "page": "https://ios.cfw.guide/get-started/iPad-mini-2.html"
+    },
+    "iPad4,5": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "12.0",
+          "to": "12.5.8",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        },
+        {
+          "from": "8.0",
+          "to": "8.4.1",
+          "jailbreak": "Installing wtfis",
+          "url": "https://ios.cfw.guide/installing-wtfis/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Installing Pangu7",
+          "url": "https://ios.cfw.guide/installing-pangu7/"
+        },
+        {
+          "from": "7.0.3",
+          "to": "7.0.6",
+          "jailbreak": "Installing Evasi0n7",
+          "url": "https://ios.cfw.guide/installing-evasi0n7/"
+        }
+      ],
+      "name": "iPad mini 2",
+      "page": "https://ios.cfw.guide/get-started/iPad-mini-2.html"
+    },
+    "iPad4,6": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "12.0",
+          "to": "12.5.8",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        },
+        {
+          "from": "8.0",
+          "to": "8.4.1",
+          "jailbreak": "Installing wtfis",
+          "url": "https://ios.cfw.guide/installing-wtfis/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Installing Pangu7",
+          "url": "https://ios.cfw.guide/installing-pangu7/"
+        },
+        {
+          "from": "7.0.3",
+          "to": "7.0.6",
+          "jailbreak": "Installing Evasi0n7",
+          "url": "https://ios.cfw.guide/installing-evasi0n7/"
+        }
+      ],
+      "name": "iPad mini 2",
+      "page": "https://ios.cfw.guide/get-started/iPad-mini-2.html"
+    },
+    "iPad2,5": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "8.0",
+          "to": "9.3.6",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "6.0",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPad mini",
+      "page": "https://ios.cfw.guide/get-started/iPad-mini.html"
+    },
+    "iPad2,6": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "8.0",
+          "to": "9.3.6",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "6.0",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPad mini",
+      "page": "https://ios.cfw.guide/get-started/iPad-mini.html"
+    },
+    "iPad2,7": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "8.0",
+          "to": "9.3.6",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "6.0",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPad mini",
+      "page": "https://ios.cfw.guide/get-started/iPad-mini.html"
     },
     "iPod9,1": {
       "soc": null,
@@ -893,7 +5915,52 @@
       "name": "Apple TV HD (4th generation)",
       "page": "https://ios.cfw.guide/get-started/Apple-TV-HD-(4th-generation).html"
     },
-    "Apple": {
+    "AppleTV3,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "7.6",
+          "to": "7.9",
+          "jailbreak": "Installing Blackb0x",
+          "url": "https://ios.cfw.guide/installing-blackb0x/"
+        },
+        {
+          "from": "7.4",
+          "to": "7.5",
+          "jailbreak": "EtasonATV",
+          "url": "https://appledb.dev/jailbreak/EtasonATV"
+        },
+        {
+          "from": "7.2.1",
+          "to": "7.3.1",
+          "jailbreak": "Installing Blackb0x",
+          "url": "https://ios.cfw.guide/installing-blackb0x/"
+        },
+        {
+          "from": "7.0",
+          "to": "7.2",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "6.0",
+          "to": "6.2",
+          "jailbreak": "Installing Blackb0x",
+          "url": "https://ios.cfw.guide/installing-blackb0x/"
+        },
+        {
+          "from": "5.0",
+          "to": "5.3",
+          "jailbreak": null,
+          "url": null
+        }
+      ],
+      "name": "Apple TV (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/Apple-TV-(3rd-generation).html"
+    },
+    "AppleTV3,2": {
       "soc": null,
       "arch": null,
       "latest_jailbreakable": null,
@@ -1022,5 +6089,6 @@
       "name": "Apple TV (1st generation)",
       "page": "https://ios.cfw.guide/get-started/Apple-TV-(1st-generation).html"
     }
-  }
+  },
+  "unmatched": []
 }
