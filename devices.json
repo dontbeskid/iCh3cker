@@ -1,0 +1,1026 @@
+{
+  "generated_at": "2026-08-29T08:58:44Z",
+  "source": "https://ios.cfw.guide",
+  "devices": {
+    "iPhone": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "4.3.4",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        },
+        {
+          "from": "4.3",
+          "to": "4.3.3",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "4.2.9",
+          "to": "4.2.10",
+          "jailbreak": "redsn0w",
+          "url": "https://appledb.dev/jailbreak/redsn0w"
+        },
+        {
+          "from": "4.2.6",
+          "to": "4.2.8",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "4.2.5",
+          "to": "4.2.5",
+          "jailbreak": "Legacy iOS Kit",
+          "url": "https://appledb.dev/jailbreak/Legacy-iOS-Kit"
+        },
+        {
+          "from": "4.1",
+          "to": "4.2.1",
+          "jailbreak": "Installing greenpois0n",
+          "url": "https://ios.cfw.guide/installing-greenpois0n/"
+        },
+        {
+          "from": "4.0",
+          "to": "4.0.2",
+          "jailbreak": "Installing limera1n",
+          "url": "https://ios.cfw.guide/installing-limera1n/"
+        }
+      ],
+      "name": "iPhone 4",
+      "page": "https://ios.cfw.guide/get-started/iPhone-4.html"
+    },
+    "iPhone14,6": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "17.4",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "17.3.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.4",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        }
+      ],
+      "name": "iPhone SE (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPhone-SE-(3rd-generation).html"
+    },
+    "iPhone12,8": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "13.4",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPhone SE (2nd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPhone-SE-(2nd-generation).html"
+    },
+    "iPhone12,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "26.1",
+          "to": "26.6.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "26.0",
+          "to": "26.0.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "18.7.2",
+          "to": "18.7.8",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "13.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPhone 11",
+      "page": "https://ios.cfw.guide/get-started/iPhone-11.html"
+    },
+    "iPhone11,8": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "18.7.2",
+          "to": "18.7.10",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "17.0.1",
+          "to": "18.7.1",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "17.0",
+          "to": "17.0",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "16.7",
+          "to": "16.7.2",
+          "jailbreak": "Installing Dopamine",
+          "url": "https://ios.cfw.guide/installing-dopamine/"
+        },
+        {
+          "from": "15.0",
+          "to": "16.6.1",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPhone XR",
+      "page": "https://ios.cfw.guide/get-started/iPhone-XR.html"
+    },
+    "iPhone8,4": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "15.0",
+          "to": "15.8.8",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.0",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.3",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        }
+      ],
+      "name": "iPhone SE (1st generation)",
+      "page": "https://ios.cfw.guide/get-started/iPhone-SE-(1st-generation).html"
+    },
+    "iPhone4,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "8.0",
+          "to": "9.3.6",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "5.0",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPhone 4S",
+      "page": "https://ios.cfw.guide/get-started/iPhone-4S.html"
+    },
+    "iPhone2,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "4.3.4",
+          "to": "6.1.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        },
+        {
+          "from": "4.3",
+          "to": "4.3.3",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "4.1",
+          "to": "4.2.1",
+          "jailbreak": "Installing greenpois0n",
+          "url": "https://ios.cfw.guide/installing-greenpois0n/"
+        },
+        {
+          "from": "4.0",
+          "to": "4.0.2",
+          "jailbreak": "Installing limera1n",
+          "url": "https://ios.cfw.guide/installing-limera1n/"
+        },
+        {
+          "from": "3.1.2",
+          "to": "3.1.3",
+          "jailbreak": "Using JailbreakMe Star",
+          "url": "https://ios.cfw.guide/using-jailbreakme-star/"
+        },
+        {
+          "from": "3.0",
+          "to": "3.1",
+          "jailbreak": "redsn0w",
+          "url": "https://appledb.dev/jailbreak/redsn0w"
+        }
+      ],
+      "name": "iPhone 3GS",
+      "page": "https://ios.cfw.guide/get-started/iPhone-3GS.html"
+    },
+    "iPhone1,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "4.0",
+          "to": "4.2.1",
+          "jailbreak": "redsn0w",
+          "url": "https://appledb.dev/jailbreak/redsn0w"
+        },
+        {
+          "from": "3.1.2",
+          "to": "3.1.3",
+          "jailbreak": "Using JailbreakMe Star",
+          "url": "https://ios.cfw.guide/using-jailbreakme-star/"
+        },
+        {
+          "from": "3.0",
+          "to": "3.1",
+          "jailbreak": "redsn0w",
+          "url": "https://appledb.dev/jailbreak/redsn0w"
+        },
+        {
+          "from": "2.0",
+          "to": "2.2.1",
+          "jailbreak": "Installing PwnageTool",
+          "url": "https://ios.cfw.guide/installing-pwnagetool/"
+        },
+        {
+          "from": "2.0",
+          "to": "2.0",
+          "jailbreak": null,
+          "url": null
+        }
+      ],
+      "name": "iPhone 3G",
+      "page": "https://ios.cfw.guide/get-started/iPhone-3G.html"
+    },
+    "iPhone1,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "3.1.2",
+          "to": "3.1.3",
+          "jailbreak": "Using JailbreakMe Star",
+          "url": "https://ios.cfw.guide/using-jailbreakme-star/"
+        },
+        {
+          "from": "3.0",
+          "to": "3.1",
+          "jailbreak": "redsn0w",
+          "url": "https://appledb.dev/jailbreak/redsn0w"
+        },
+        {
+          "from": "2.0",
+          "to": "2.2.1",
+          "jailbreak": "Installing PwnageTool",
+          "url": "https://ios.cfw.guide/installing-pwnagetool/"
+        },
+        {
+          "from": "1.0",
+          "to": "1.1.4",
+          "jailbreak": "iLiberty+",
+          "url": "https://appledb.dev/jailbreak/iLiberty+"
+        }
+      ],
+      "name": "iPhone 2G",
+      "page": "https://ios.cfw.guide/get-started/iPhone-2G.html"
+    },
+    "iPad": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "8.0",
+          "to": "9.3.6",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "6.0",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPad mini",
+      "page": "https://ios.cfw.guide/get-started/iPad-mini.html"
+    },
+    "iPad1,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "4.3.3",
+          "to": "5.1.1",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        },
+        {
+          "from": "4.3",
+          "to": "4.3.2",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "3.2.2",
+          "to": "4.2.1",
+          "jailbreak": "Installing greenpois0n",
+          "url": "https://ios.cfw.guide/installing-greenpois0n/"
+        },
+        {
+          "from": "3.2",
+          "to": "3.2.1",
+          "jailbreak": "Using JailbreakMe Star",
+          "url": "https://ios.cfw.guide/using-jailbreakme-star/"
+        }
+      ],
+      "name": "iPad",
+      "page": "https://ios.cfw.guide/get-started/iPad.html"
+    },
+    "iPod9,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "15.0",
+          "to": "15.8.8",
+          "jailbreak": "Installing Dopamine (TrollStore)",
+          "url": "https://ios.cfw.guide/installing-dopamine-trollstore/"
+        },
+        {
+          "from": "14.0",
+          "to": "14.8.1",
+          "jailbreak": "Installing Taurine",
+          "url": "https://ios.cfw.guide/installing-taurine/"
+        },
+        {
+          "from": "12.3",
+          "to": "13.7",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        }
+      ],
+      "name": "iPod touch (7th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPod-touch-(7th-generation).html"
+    },
+    "iPod7,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "12.0",
+          "to": "12.5.8",
+          "jailbreak": "Installing Amethyst",
+          "url": "https://ios.cfw.guide/installing-amethyst/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing unc0ver",
+          "url": "https://ios.cfw.guide/installing-unc0ver/"
+        },
+        {
+          "from": "10.0",
+          "to": "10.3.3",
+          "jailbreak": "Using TotallyNotSpyware",
+          "url": "https://ios.cfw.guide/using-tns/"
+        },
+        {
+          "from": "9.2",
+          "to": "9.3.5",
+          "jailbreak": "Installing kok3shi9",
+          "url": "https://ios.cfw.guide/installing-kok3shi9/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.1",
+          "jailbreak": "Installing Pangu9",
+          "url": "https://ios.cfw.guide/installing-pangu9/"
+        },
+        {
+          "from": "8.4",
+          "to": "8.4.1",
+          "jailbreak": "Installing wtfis",
+          "url": "https://ios.cfw.guide/installing-wtfis/"
+        }
+      ],
+      "name": "iPod touch (6th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPod-touch-(6th-generation).html"
+    },
+    "iPod5,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "8.0",
+          "to": "9.3.5",
+          "jailbreak": "Using Carbon",
+          "url": "https://ios.cfw.guide/using-carbon/"
+        },
+        {
+          "from": "7.1",
+          "to": "7.1.2",
+          "jailbreak": "Using Lyncis",
+          "url": "https://ios.cfw.guide/using-lyncis/"
+        },
+        {
+          "from": "6.0",
+          "to": "7.0.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        }
+      ],
+      "name": "iPod touch (5th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPod-touch-(5th-generation).html"
+    },
+    "iPod4,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "4.3.4",
+          "to": "6.1.6",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        },
+        {
+          "from": "4.3",
+          "to": "4.3.3",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "4.1",
+          "to": "4.2.1",
+          "jailbreak": "Installing greenpois0n",
+          "url": "https://ios.cfw.guide/installing-greenpois0n/"
+        }
+      ],
+      "name": "iPod touch (4th generation)",
+      "page": "https://ios.cfw.guide/get-started/iPod-touch-(4th-generation).html"
+    },
+    "iPod3,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "4.3.4",
+          "to": "5.1.1",
+          "jailbreak": "Installing Aquila",
+          "url": "https://ios.cfw.guide/installing-aquila/"
+        },
+        {
+          "from": "4.3",
+          "to": "4.3.3",
+          "jailbreak": "Using JailbreakMe Saffron",
+          "url": "https://ios.cfw.guide/using-jailbreakme-saffron/"
+        },
+        {
+          "from": "4.1",
+          "to": "4.2.1",
+          "jailbreak": "Installing greenpois0n",
+          "url": "https://ios.cfw.guide/installing-greenpois0n/"
+        },
+        {
+          "from": "4.0",
+          "to": "4.0.2",
+          "jailbreak": "Installing limera1n",
+          "url": "https://ios.cfw.guide/installing-limera1n/"
+        },
+        {
+          "from": "3.1.2",
+          "to": "3.1.3",
+          "jailbreak": "Using JailbreakMe Star",
+          "url": "https://ios.cfw.guide/using-jailbreakme-star/"
+        },
+        {
+          "from": "3.1.1",
+          "to": "3.1.1",
+          "jailbreak": "redsn0w",
+          "url": "https://appledb.dev/jailbreak/redsn0w"
+        }
+      ],
+      "name": "iPod touch (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPod-touch-(3rd-generation).html"
+    },
+    "iPod2,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "4.1",
+          "to": "4.2.1",
+          "jailbreak": "Installing greenpois0n",
+          "url": "https://ios.cfw.guide/installing-greenpois0n/"
+        },
+        {
+          "from": "4.0",
+          "to": "4.0.2",
+          "jailbreak": "redsn0w",
+          "url": "https://appledb.dev/jailbreak/redsn0w"
+        },
+        {
+          "from": "3.1.2",
+          "to": "3.1.3",
+          "jailbreak": "Using JailbreakMe Star",
+          "url": "https://ios.cfw.guide/using-jailbreakme-star/"
+        },
+        {
+          "from": "2.2",
+          "to": "3.1.1",
+          "jailbreak": "redsn0w",
+          "url": "https://appledb.dev/jailbreak/redsn0w"
+        },
+        {
+          "from": "2.1.1",
+          "to": "2.1.1",
+          "jailbreak": null,
+          "url": null
+        }
+      ],
+      "name": "iPod touch (2nd generation)",
+      "page": "https://ios.cfw.guide/get-started/iPod-touch-(2nd-generation).html"
+    },
+    "iPod1,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "3.1.2",
+          "to": "3.1.3",
+          "jailbreak": "Using JailbreakMe Star",
+          "url": "https://ios.cfw.guide/using-jailbreakme-star/"
+        },
+        {
+          "from": "3.0",
+          "to": "3.1.1",
+          "jailbreak": "redsn0w",
+          "url": "https://appledb.dev/jailbreak/redsn0w"
+        },
+        {
+          "from": "2.0",
+          "to": "2.2.1",
+          "jailbreak": "Installing PwnageTool",
+          "url": "https://ios.cfw.guide/installing-pwnagetool/"
+        },
+        {
+          "from": "1.1",
+          "to": "1.1.5",
+          "jailbreak": "iLiberty+",
+          "url": "https://appledb.dev/jailbreak/iLiberty+"
+        }
+      ],
+      "name": "iPod touch (1st generation)",
+      "page": "https://ios.cfw.guide/get-started/iPod-touch-(1st-generation).html"
+    },
+    "AppleTV6,2": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "15.0",
+          "to": "26.6",
+          "jailbreak": "Installing palera1n (Apple TV)",
+          "url": "https://ios.cfw.guide/installing-palera1n-atv/"
+        },
+        {
+          "from": "13.4.6",
+          "to": "14.7",
+          "jailbreak": "Installing Odysseyra1n",
+          "url": "https://ios.cfw.guide/installing-odysseyra1n/"
+        },
+        {
+          "from": "12.4.1",
+          "to": "13.4.5",
+          "jailbreak": "Installing unc0verTV",
+          "url": "https://ios.cfw.guide/installing-unc0vertv/"
+        },
+        {
+          "from": "12.4",
+          "to": "12.4",
+          "jailbreak": "Installing ChimeraTV",
+          "url": "https://ios.cfw.guide/installing-chimeratv/"
+        },
+        {
+          "from": "12.2.1",
+          "to": "12.3",
+          "jailbreak": "Installing unc0verTV",
+          "url": "https://ios.cfw.guide/installing-unc0vertv/"
+        },
+        {
+          "from": "12.0",
+          "to": "12.2",
+          "jailbreak": "Installing ChimeraTV",
+          "url": "https://ios.cfw.guide/installing-chimeratv/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing ElectraTV",
+          "url": "https://ios.cfw.guide/installing-electratv/"
+        }
+      ],
+      "name": "Apple TV 4K (1st generation)",
+      "page": "https://ios.cfw.guide/get-started/Apple-TV-4K-(1st-generation).html"
+    },
+    "AppleTV5,3": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "15.0",
+          "to": "26.6",
+          "jailbreak": "Installing palera1n (Apple TV)",
+          "url": "https://ios.cfw.guide/installing-palera1n-atv/"
+        },
+        {
+          "from": "13.4.6",
+          "to": "14.7",
+          "jailbreak": "Installing Odysseyra1n",
+          "url": "https://ios.cfw.guide/installing-odysseyra1n/"
+        },
+        {
+          "from": "12.4.1",
+          "to": "13.4.5",
+          "jailbreak": "Installing unc0verTV",
+          "url": "https://ios.cfw.guide/installing-unc0vertv/"
+        },
+        {
+          "from": "12.4",
+          "to": "12.4",
+          "jailbreak": "Installing ChimeraTV",
+          "url": "https://ios.cfw.guide/installing-chimeratv/"
+        },
+        {
+          "from": "12.2.1",
+          "to": "12.3",
+          "jailbreak": "Installing unc0verTV",
+          "url": "https://ios.cfw.guide/installing-unc0vertv/"
+        },
+        {
+          "from": "12.0",
+          "to": "12.2",
+          "jailbreak": "Installing ChimeraTV",
+          "url": "https://ios.cfw.guide/installing-chimeratv/"
+        },
+        {
+          "from": "11.0",
+          "to": "11.4.1",
+          "jailbreak": "Installing ElectraTV",
+          "url": "https://ios.cfw.guide/installing-electratv/"
+        },
+        {
+          "from": "10.2.2",
+          "to": "10.2.2",
+          "jailbreak": "Installing backr00m",
+          "url": "https://ios.cfw.guide/installing-backr00m/"
+        },
+        {
+          "from": "10.1.1",
+          "to": "10.2.1",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "10.0",
+          "to": "10.1",
+          "jailbreak": "Installing LiberTV",
+          "url": "https://ios.cfw.guide/installing-libertv/"
+        },
+        {
+          "from": "9.0",
+          "to": "9.2.2",
+          "jailbreak": null,
+          "url": null
+        }
+      ],
+      "name": "Apple TV HD (4th generation)",
+      "page": "https://ios.cfw.guide/get-started/Apple-TV-HD-(4th-generation).html"
+    },
+    "Apple": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "7.6",
+          "to": "7.9",
+          "jailbreak": "Installing Blackb0x",
+          "url": "https://ios.cfw.guide/installing-blackb0x/"
+        },
+        {
+          "from": "7.4",
+          "to": "7.5",
+          "jailbreak": "EtasonATV",
+          "url": "https://appledb.dev/jailbreak/EtasonATV"
+        },
+        {
+          "from": "7.2.1",
+          "to": "7.3.1",
+          "jailbreak": "Installing Blackb0x",
+          "url": "https://ios.cfw.guide/installing-blackb0x/"
+        },
+        {
+          "from": "7.0",
+          "to": "7.2",
+          "jailbreak": null,
+          "url": null
+        },
+        {
+          "from": "6.0",
+          "to": "6.2",
+          "jailbreak": "Installing Blackb0x",
+          "url": "https://ios.cfw.guide/installing-blackb0x/"
+        },
+        {
+          "from": "5.0",
+          "to": "5.3",
+          "jailbreak": null,
+          "url": null
+        }
+      ],
+      "name": "Apple TV (3rd generation)",
+      "page": "https://ios.cfw.guide/get-started/Apple-TV-(3rd-generation).html"
+    },
+    "AppleTV2,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "6.2.1",
+          "to": "6.2.1",
+          "jailbreak": "Installing Blackb0x",
+          "url": "https://ios.cfw.guide/installing-blackb0x/"
+        },
+        {
+          "from": "6.0",
+          "to": "6.2",
+          "jailbreak": "opensn0w",
+          "url": "https://appledb.dev/jailbreak/opensn0w"
+        },
+        {
+          "from": "5.2.1",
+          "to": "5.3",
+          "jailbreak": "Installing P0sixspwn",
+          "url": "https://ios.cfw.guide/installing-p0sixspwn/"
+        },
+        {
+          "from": "5.1",
+          "to": "5.2",
+          "jailbreak": "Installing Evasi0n6",
+          "url": "https://ios.cfw.guide/installing-evasi0n6/"
+        },
+        {
+          "from": "4.3",
+          "to": "5.0.2",
+          "jailbreak": "Seas0nPass",
+          "url": "https://appledb.dev/jailbreak/Seas0nPass"
+        },
+        {
+          "from": "4.2.1",
+          "to": "4.2.2",
+          "jailbreak": "Installing PwnageTool",
+          "url": "https://ios.cfw.guide/installing-pwnagetool/"
+        },
+        {
+          "from": "4.2",
+          "to": "4.2",
+          "jailbreak": "Seas0nPass",
+          "url": "https://appledb.dev/jailbreak/Seas0nPass"
+        },
+        {
+          "from": "4.1.1",
+          "to": "4.1.1",
+          "jailbreak": "Installing greenpois0n",
+          "url": "https://ios.cfw.guide/installing-greenpois0n/"
+        },
+        {
+          "from": "4.1",
+          "to": "4.1",
+          "jailbreak": "Installing PwnageTool",
+          "url": "https://ios.cfw.guide/installing-pwnagetool/"
+        },
+        {
+          "from": "4.0",
+          "to": "4.0",
+          "jailbreak": "Installing greenpois0n",
+          "url": "https://ios.cfw.guide/installing-greenpois0n/"
+        }
+      ],
+      "name": "Apple TV (2nd generation)",
+      "page": "https://ios.cfw.guide/get-started/Apple-TV-(2nd-generation).html"
+    },
+    "AppleTV1,1": {
+      "soc": null,
+      "arch": null,
+      "latest_jailbreakable": null,
+      "versions": [
+        {
+          "from": "1.0",
+          "to": "3.0.2",
+          "jailbreak": "Installing Patchstick",
+          "url": "https://ios.cfw.guide/installing-patchstick/"
+        }
+      ],
+      "name": "Apple TV (1st generation)",
+      "page": "https://ios.cfw.guide/get-started/Apple-TV-(1st-generation).html"
+    }
+  }
+}
