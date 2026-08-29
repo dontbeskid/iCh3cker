@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Program: iCh3cker
-# Description: Full iDevice info reader (Battery cycles, Jailbreak status, Region, Production Date, etc.)
 echo "                                 
  _ _____ _   ___     _           
 |_|     | |_|_  |___| |_ ___ ___ 
@@ -9,6 +7,10 @@ echo "
 |_|_____|_|_|___|___|_,_|___|_|  
                                      
 "
+
+JB_JSON_URL="${JB_JSON_URL:-https://raw.githubusercontent.com/dontbeskid/iCh3cker/refs/heads/main/devices.json}"
+JB_JSON_CACHE="${JB_JSON_CACHE:-$HOME/.cache/ich3cker/devices.json}"
+JB_JSON_MAX_AGE="${JB_JSON_MAX_AGE:-86400}"
 
 check_dependencies() {
     local missing=()
@@ -21,6 +23,13 @@ check_dependencies() {
         echo "  - macOS: brew install libimobiledevice"
         echo "  - Linux: sudo apt-get install libimobiledevice-utils"
         exit 1
+    fi
+
+    if ! command -v jq &>/dev/null; then
+        echo "Note: 'jq' not found - jailbreak lookups will fall back to the built-in static table."
+        echo "  - macOS: brew install jq"
+        echo "  - Linux: sudo apt-get install jq"
+        echo ""
     fi
 }
 
@@ -78,6 +87,73 @@ check_jailbreak_support() {
     fi
 }
 
+fetch_jb_json() {
+    [ -z "$JB_JSON_URL" ] && return 1
+    command -v curl &>/dev/null || return 1
+
+    mkdir -p "$(dirname "$JB_JSON_CACHE")"
+
+    local age=999999999
+    if [ -f "$JB_JSON_CACHE" ]; then
+        local mtime
+        mtime=$(stat -c %Y "$JB_JSON_CACHE" 2>/dev/null || stat -f %m "$JB_JSON_CACHE" 2>/dev/null || echo 0)
+        age=$(( $(date +%s) - mtime ))
+    fi
+
+    if [ ! -s "$JB_JSON_CACHE" ] || [ "$age" -gt "$JB_JSON_MAX_AGE" ]; then
+        if curl -fsSL "$JB_JSON_URL" -o "${JB_JSON_CACHE}.tmp" 2>/dev/null; then
+            mv "${JB_JSON_CACHE}.tmp" "$JB_JSON_CACHE"
+        else
+            rm -f "${JB_JSON_CACHE}.tmp"
+        fi
+    fi
+
+    [ -s "$JB_JSON_CACHE" ]
+}
+
+version_in_range() {
+    local v="$1" lo="$2" hi="$3"
+    [ "$(printf '%s\n%s\n' "$lo" "$v" | sort -V | head -n1)" = "$lo" ] || return 1
+    [ "$(printf '%s\n%s\n' "$v" "$hi" | sort -V | head -n1)" = "$v" ] || return 1
+    return 0
+}
+
+lookup_jailbreak_from_json() {
+    local model="$1" ver="$2"
+
+    command -v jq &>/dev/null || return 1
+    fetch_jb_json || return 1
+
+    local dev
+    dev=$(jq -c --arg id "$model" '.devices[$id] // empty' "$JB_JSON_CACHE" 2>/dev/null)
+    [ -z "$dev" ] && return 1
+
+    local name latest
+    name=$(echo "$dev" | jq -r '.name // "device"')
+    latest=$(echo "$dev" | jq -r '.latest_jailbreakable // empty')
+
+    local count i frm to jb url
+    count=$(echo "$dev" | jq '.versions | length')
+    for ((i = 0; i < count; i++)); do
+        frm=$(echo "$dev" | jq -r ".versions[$i].from")
+        to=$(echo "$dev" | jq -r ".versions[$i].to")
+        jb=$(echo "$dev" | jq -r ".versions[$i].jailbreak")
+        url=$(echo "$dev" | jq -r ".versions[$i].url")
+
+        if version_in_range "$ver" "$frm" "$to" 2>/dev/null; then
+            if [ "$jb" = "null" ] || [ -z "$jb" ]; then
+                echo "Not Supported ($name on $ver has no known jailbreak)"
+            else
+                echo "$jb ($url)"
+            fi
+            return 0
+        fi
+    done
+
+    echo "Unknown for this version ($name, latest jailbreakable known: ${latest:-N/A})"
+    return 0
+}
+
 get_device_info() {
     echo "iCh3cker | <3 | github.com/dontbeskid"
     echo "Searching for connected iOS device..."
@@ -129,7 +205,15 @@ get_device_info() {
     fi
 
     local prod_date=$(get_production_date "$serial")
-    local jb_status=$(check_jailbreak_support "$os_ver")
+
+    local jb_status jb_source
+    jb_status=$(lookup_jailbreak_from_json "$model" "$os_ver")
+    if [ -n "$jb_status" ]; then
+        jb_source="ios.cfw.guide"
+    else
+        jb_status=$(check_jailbreak_support "$os_ver")
+        jb_source="built-in table"
+    fi
 
     echo "-- general"
     echo "Device Name        : ${name:-N/A}"
@@ -141,7 +225,7 @@ get_device_info() {
     echo ""
     echo "-- system"
     echo "iOS/iPadOS Version : ${os_ver:-N/A} (${build_ver:-N/A})"
-    echo "Jailbreak Support  : ( he can lie ) - ${jb_status}"
+    echo "Jailbreak Support  : ${jb_status} [source: ${jb_source}]"
     echo "Activation State   : ${activated:-N/A}"
     echo "Find My iPhone     : ${fmi:-N/A}"
     echo "Passcode Enabled   : ${pass_status:-N/A}"
