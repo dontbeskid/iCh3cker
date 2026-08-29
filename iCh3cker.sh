@@ -9,8 +9,6 @@ echo "
 "
 
 JB_JSON_URL="${JB_JSON_URL:-https://raw.githubusercontent.com/dontbeskid/iCh3cker/refs/heads/main/devices.json}"
-JB_JSON_CACHE="${JB_JSON_CACHE:-$HOME/.cache/ich3cker/devices.json}"
-JB_JSON_MAX_AGE="${JB_JSON_MAX_AGE:-86400}"
 
 check_dependencies() {
     local missing=()
@@ -87,30 +85,6 @@ check_jailbreak_support() {
     fi
 }
 
-fetch_jb_json() {
-    [ -z "$JB_JSON_URL" ] && return 1
-    command -v curl &>/dev/null || return 1
-
-    mkdir -p "$(dirname "$JB_JSON_CACHE")"
-
-    local age=999999999
-    if [ -f "$JB_JSON_CACHE" ]; then
-        local mtime
-        mtime=$(stat -c %Y "$JB_JSON_CACHE" 2>/dev/null || stat -f %m "$JB_JSON_CACHE" 2>/dev/null || echo 0)
-        age=$(( $(date +%s) - mtime ))
-    fi
-
-    if [ ! -s "$JB_JSON_CACHE" ] || [ "$age" -gt "$JB_JSON_MAX_AGE" ]; then
-        if curl -fsSL "$JB_JSON_URL" -o "${JB_JSON_CACHE}.tmp" 2>/dev/null; then
-            mv "${JB_JSON_CACHE}.tmp" "$JB_JSON_CACHE"
-        else
-            rm -f "${JB_JSON_CACHE}.tmp"
-        fi
-    fi
-
-    [ -s "$JB_JSON_CACHE" ]
-}
-
 version_in_range() {
     local v="$1" lo="$2" hi="$3"
     [ "$(printf '%s\n%s\n' "$lo" "$v" | sort -V | head -n1)" = "$lo" ] || return 1
@@ -122,11 +96,25 @@ lookup_jailbreak_from_json() {
     local model="$1" ver="$2"
 
     command -v jq &>/dev/null || return 1
-    fetch_jb_json || return 1
+    command -v curl &>/dev/null || return 1
 
+    local tmp_json
+    tmp_json=$(mktemp 2>/dev/null || echo "/tmp/ich3cker_jb.json")
+    
+    # Прямое скачивание свежего JSON
+    if ! curl -fsSL "$JB_JSON_URL" -o "$tmp_json" 2>/dev/null; then
+        rm -f "$tmp_json"
+        return 1
+    fi
+
+    # Чтение через структуру .devices[$id]
     local dev
-    dev=$(jq -c --arg id "$model" '.devices[$id] // empty' "$JB_JSON_CACHE" 2>/dev/null)
-    [ -z "$dev" ] && return 1
+    dev=$(jq -c --arg id "$model" '.devices[$id] // empty' "$tmp_json" 2>/dev/null)
+    
+    if [ -z "$dev" ]; then
+        rm -f "$tmp_json"
+        return 1
+    fi
 
     local name latest
     name=$(echo "$dev" | jq -r '.name // "device"')
@@ -141,6 +129,7 @@ lookup_jailbreak_from_json() {
         url=$(echo "$dev" | jq -r ".versions[$i].url")
 
         if version_in_range "$ver" "$frm" "$to" 2>/dev/null; then
+            rm -f "$tmp_json"
             if [ "$jb" = "null" ] || [ -z "$jb" ]; then
                 echo "Not Supported ($name on $ver has no known jailbreak)"
             else
@@ -150,6 +139,7 @@ lookup_jailbreak_from_json() {
         fi
     done
 
+    rm -f "$tmp_json"
     echo "Unknown for this version ($name, latest jailbreakable known: ${latest:-N/A})"
     return 0
 }
