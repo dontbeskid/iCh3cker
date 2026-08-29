@@ -2,10 +2,12 @@
 
 # Program: iCh3cker
 # Description: Full iDevice info reader (Battery cycles, Jailbreak status, Region, Production Date, etc.)
-echo "  _   ___ _     ____    _        
- (_)/ __| |_ |__ / __| |_____ _ _ 
- | | (__| ' \|_ \/ _| / / -_) '_| 
- |_|\___|_||_|___/\__|_\_\___|_|  
+echo "                                 
+ _ _____ _   ___     _           
+|_|     | |_|_  |___| |_ ___ ___ 
+| |   --|   |_  |  _| '_| -_|  _|
+|_|_____|_|_|___|___|_,_|___|_|  
+                                     
 "
 
 check_dependencies() {
